@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "portaldupebegone",
+    "name": "PortalDupeBegone",
+    "description": "Patches duping using portals and entities.",
+    "version": "1.0.0",
+    "mcversion": "${mcversion}",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/portaldupebegone",
+    "updateUrl": "",
+    "authorList": [
+      "fonnymunkey"
+    ],
+    "credits": "",
+    "logoFile": "logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
